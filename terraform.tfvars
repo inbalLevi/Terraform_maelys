@@ -1,0 +1,5 @@
+resource_group_name= "terraform-appservice"
+location= "West Europe"
+app_service_plan_name="terraform-asp"
+app_service_name="terraform-appservice-inbal"
+slot_name="inbal"
